@@ -28,7 +28,7 @@ node -v
 npm -v
 ```
 
-Otherwise ddownload here https://nodejs.org/en.
+Otherwise download here https://nodejs.org/en.
 
 1. Clone the repository:
 
