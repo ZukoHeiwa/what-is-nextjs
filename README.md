@@ -54,7 +54,7 @@ It's a popular choice among developers due to its ease of use, performance benef
 # Support and Contact
 If you have questions, encounter issues, or want to get involved in the development, please contact me via:
 - 📫 via Email **zukoheiwabusiness@gmail.com**
-- 📄 via Issues https://github.com/zukoheiwa/bun-twitter-clone-demo/issues 
+- 📄 via Issues https://github.com/ZukoHeiwa/what-is-nextjs/issues 
 
 ## Author
 &#8226; ZukoHeiwa
