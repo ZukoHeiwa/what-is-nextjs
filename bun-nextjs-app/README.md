@@ -34,6 +34,24 @@ To get this project up and running on your local machine, follow these steps:
 
 # Usage
 
+Before installation make sure you have bun
+```
+bun --version
+```
+
+Otherwise You need to download bun, that is currently today available for macOS and Linux(October 25, 2023):
+
+```
+curl -fsSL https://bun.sh/install | bash
+```
+Check installation:
+
+```
+bun --version
+```
+
+Now you are ready to start with:
+
 1. Install project dependencies:
     ```bash
     bun install
