@@ -22,6 +22,30 @@ My Next.js app is built using the Next.js framework, which offers a range of fea
 
 To get this project up and running on your local machine, follow these steps:
 
+Start by checking if you have Node.js and Npm:
+```
+node -v
+npm -v
+```
+
+Now check if you have yarn:
+```
+yarn --version
+```
+
+Otherwise download here Node.js that will download automatically and npm that goes with Node.js https://nodejs.org/en change the installation to whatever you desire, after that you need to install yarn from this website you can see some basic understanding https://classic.yarnpkg.com/lang/en/docs/install/#debian-stable, after the installation of npm you can start with yarn installation:
+
+```
+npm install --global yarn
+```
+Check installation:
+
+```
+yarn --version
+```
+
+Now you are ready to start with:
+
 1. Clone the repository:
 
    ```bash
