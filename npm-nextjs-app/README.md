@@ -22,6 +22,14 @@ My Next.js app is built using the Next.js framework, which offers a range of fea
 
 To get this project up and running on your local machine, follow these steps:
 
+Before installation make sure you have npm and nodejs.
+```
+node -v
+npm -v
+```
+
+Otherwise ddownload here https://nodejs.org/en.
+
 1. Clone the repository:
 
    ```bash
